@@ -1,0 +1,30 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$gray: #F4F4F4;
+$black: #000000;
+
+
+
+div {
+    background-color: rgba(255, 255, 0, 0.2);
+    width: 600px;
+    border-left: 5px solid grey;
+}
+
+h1 {
+    font-size: 24px;
+    font-family: "Verdana", sans-serif;
+}
+
+a {
+    text-decoration: none;
+    font-family: "Verdana", sans-serif;
+    font-size: 16px;
+}
+
+p {
+    font-family: "Verdana", sans-serif;
+    color: black;
+}
